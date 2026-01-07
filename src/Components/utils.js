@@ -1,5 +1,5 @@
 // --- CONSTANTS ---
-export const API_BASE_URL = 'http://localhost:8888/api'; // Your backend URL
+export const API_BASE_URL = 'https://real-estate-backend-nine-eta.vercel.app/api'; // Your backend URL
 export const APPOINTMENT_FEE = 1000;
 export const PAYMENT_METHODS = ['Razorpay', 'Pay on Visit'];
 
